@@ -17,10 +17,10 @@
 
 <img width="731" height="806" alt="{10A347AF-065D-44A8-9A58-16B946B42091}" src="https://github.com/user-attachments/assets/abc98a76-a224-48d4-8691-f458f9c17f27" />
 
-
 ## Тестовые примеры
 
-
+<img width="763" height="973" alt="{C2C45D05-AD11-449A-85C6-52B555F99ACC}" src="https://github.com/user-attachments/assets/a4bacc32-fcff-42f5-8bff-2585b82ee698" />
+<img width="879" height="1006" alt="{0BFE88AF-4176-479E-A9E3-B9412914BE4C}" src="https://github.com/user-attachments/assets/95a98788-5648-4582-9496-caf2bf1e4c3f" />
 
 ## Используемые технологии
 
